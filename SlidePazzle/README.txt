@@ -7,6 +7,8 @@
 
 # Usage
 
+SlidePazzle.exeと同じ場所にimageフォルダを作成してください。
+
 SlidePazzle.exeを実行することでゲームを遊ぶことができます。
 
 # Note
